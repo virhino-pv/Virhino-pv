@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=virhino-vignesh&label=PROFILE%20VIEWS&color=9333ea&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=virhino-pv&label=PROFILE%20VIEWS&color=9333ea&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -178,13 +178,13 @@
 <h2 align="center">📊 Real-Time Engineering Telemetry</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=virhino-vignesh&show_icons=true&bg_color=090a16&title_color=a855f7&text_color=e2e8f0&icon_color=38bdf8&border_color=8b5cf6&border_radius=12" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=virhino-pv&show_icons=true&bg_color=090a16&title_color=a855f7&text_color=e2e8f0&icon_color=38bdf8&border_color=8b5cf6&border_radius=12" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=virhino-vignesh&layout=compact&bg_color=090a16&title_color=a855f7&text_color=e2e8f0&border_color=8b5cf6&border_radius=12" width="100%" style="max-width: 350px;" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=virhino-pv&layout=compact&bg_color=090a16&title_color=a855f7&text_color=e2e8f0&border_color=8b5cf6&border_radius=12" width="100%" style="max-width: 350px;" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=virhino-vignesh&theme=tokyonight&hide_border=false&border=8b5cf6&background=090a16&ring=38bdf8&fire=a855f7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=38bdf8&dates=94a3b8" width="100%" style="max-width: 490px;" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=virhino-pv&theme=tokyonight&hide_border=false&border=8b5cf6&background=090a16&ring=38bdf8&fire=a855f7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=38bdf8&dates=94a3b8" width="100%" style="max-width: 490px;" alt="GitHub Streak" />
 </p>
 
 <p align="center">
