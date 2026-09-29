@@ -193,6 +193,14 @@
 
 ---
 
+<h2 align="center">🐍 Contribution Journey</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/virhino-pv/Virhino-pv/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+</p>
+
+---
+
 <h2 align="center">🤝 Let's Connect &amp; Build Together</h2>
 
 <p align="center"><i>Whether you're looking to architect a new SaaS, deploy enterprise AI agents, or scale your technical team — let's have a conversation!</i></p>
